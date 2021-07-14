@@ -1,3 +1,24 @@
 [submodule "mp-prelim"]
 	path = mp-prelim
 	url = https://github.com/cs351/mp-prelim-franciscob1218
+[submodule "mp-bomb"]
+	path = mp-bomb
+	url = https://github.com/cs351/mp-bomb-franciscob1218
+[submodule "mp-attack"]
+	path = mp-attack
+	url = https://github.com/cs351/mp-attack-franciscob1218
+[submodule "mp-shell"]
+	path = mp-shell
+	url = https://github.com/cs351/mp-shell-franciscob1218
+[submodule "mp-malloc"]
+	path = mp-malloc
+	url = https://github.com/cs351/mp-malloc-franciscob1218
+[submodule "mp-cache"]
+	path = mp-cache
+	url = https://github.com/cs351/mp-cache-franciscob1218
+[submodule "MP"]
+	path = MP
+	url = https://github.com/cs351/MP
+[submodule "examples"]
+	path = examples
+	url = https://github.com/cs351/examples
